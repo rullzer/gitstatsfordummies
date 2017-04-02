@@ -1,0 +1,20 @@
+USAGE:
+
+./openstats.py <username> <token>
+
+Fetches all the data from github
+
+
+./count.py 
+
+Counts the number of prs
+
+
+./parseopenstats.py
+
+Some label stats
+
+
+./timestats.py
+
+Some PR age stats
